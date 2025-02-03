@@ -1,4 +1,4 @@
-package pl.fylypek.librus_unofficial
+package pl.fylypek.kanapka_ai_mobile
 
 import java.io.OutputStreamWriter
 import java.net.HttpURLConnection

@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Librus Unofficial"
+rootProject.name = "Kanapka AI"
 include(":app")

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "pl.fylypek.librus_unofficial"
+    namespace = "pl.fylypek.kanapka_ai_mobile"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "pl.fylypek.librus_unofficial"
+        applicationId = "pl.fylypek.kanapka_ai_mobile"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

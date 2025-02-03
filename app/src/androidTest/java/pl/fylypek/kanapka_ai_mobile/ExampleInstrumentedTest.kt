@@ -1,4 +1,4 @@
-package pl.fylypek.librus_unofficial
+package pl.fylypek.kanapka_ai_mobile
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

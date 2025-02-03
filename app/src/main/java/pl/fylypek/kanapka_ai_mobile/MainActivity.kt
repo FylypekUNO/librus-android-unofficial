@@ -1,4 +1,4 @@
-package pl.fylypek.librus_unofficial
+package pl.fylypek.kanapka_ai_mobile
 
 import android.os.Bundle
 import android.widget.TextView
@@ -23,9 +23,6 @@ class MainActivity : AppCompatActivity() {
 
                 setContentView(outputView)
 
-                return@then outputView
-            }
-            .then { outputView ->
                 outputView.textSize = 18f
                 outputView.setPadding(1*3, 32*3, 0, 0)
             }

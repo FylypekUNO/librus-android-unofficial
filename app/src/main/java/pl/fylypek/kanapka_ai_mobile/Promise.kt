@@ -1,4 +1,4 @@
-package pl.fylypek.librus_unofficial
+package pl.fylypek.kanapka_ai_mobile
 
 import android.os.Handler
 import android.os.Looper
